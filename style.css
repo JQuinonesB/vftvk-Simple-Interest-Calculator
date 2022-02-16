@@ -1,21 +1,16 @@
 body {background-color:black;
-    padding: 2% 5%;
+    font-family:Verdana;
 }
-div {
-    position: absolute;
-    top: 10px; left: 100px;
-    background: white;
-    border-top-left-radius: 30px ;
-    border-bottom-right-radius: 30px;
-    border-top-right-radius: 30px;
-    border-bottom-left-radius: 30px;
-    width: 470px;
-    height: 265px;
-    padding: 1% 5%;
-    box-sizing: content-box;
-    font-family: Arial;
+h1{color:gray; font-family: Verdana;}
+
+.maindiv{
+    background-color: white;
     color: black;
-  }
-h1{color:gray; font-size: 1cm; font-family: Arial; font-weight: bold;}
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    box-align: center;
+}
+
 
 
