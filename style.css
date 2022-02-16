@@ -1,4 +1,21 @@
-body {background-color:goldenrod;}
-h1{color:white;}
+body {background-color:black;
+    padding: 2% 5%;
+}
+div {
+    position: relative;
+    top: 10px; left: 100px;
+    background: white;
+    border-top-left-radius: 30px ;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 500px;
+    height: 300px;
+    padding: 1% 5%;
+    box-sizing: content-box;
+    font-family: Arial;
+    color: black;
+  }
+h1{color:gray; font-size: 0.9cm; font-family: Arial; font-weight: bold;}
 
 
